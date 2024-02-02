@@ -1,0 +1,13 @@
+button {
+
+    color: rgb(24, 6, 6);
+    width: 150px;
+    height: 50px;
+    padding: 5px;
+    background-color: rgb(151, 73, 224);
+
+    position: absolute;
+    top: 450px;
+    left: 230px;
+
+}
